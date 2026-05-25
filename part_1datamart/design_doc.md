@@ -59,4 +59,3 @@ Fiscal year attribute: April 1 start. Fiscal month 1 = April, 12 = March.
 2. Replace single Excel source with a proper staging area fed from 
    operational system APIs or a flat-file extract. Process in parallel 
    using SSIS data flow partitioning.
-```
